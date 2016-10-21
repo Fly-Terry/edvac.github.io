@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Terry&#39;s BLOG</title>
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/D:/hexo/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
   <updated>2016-10-21T12:41:30.651Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Terry</name>
     
   </author>
   
